@@ -1,0 +1,63 @@
+<html>
+<head>
+<style>
+<linkrel= "stylesheet"
+href= "styles.css">
+</style>
+</head>
+<body>
+<header>
+    <center>Gabriella Garza </center>
+  </header>
+  <h3>
+    <boston>
+    <center>Boston, Ma</center>
+  </h3>
+
+  <aside>
+    <img src= "https://img.buzzfeed.com/buzzfeed-static/static/2018-01/11/20/asset/buzzfeed-prod-fastlane-01/sub-buzz-24780-1515722370-5.jpg" alt= "Short Bangs" <br>
+
+ 
+  </section>
+  <section id="experience">
+    <h2>Professional Experience</h2>
+   Rollshack/ Ice Cream Roller/ Cashier 325-232-6090
+5/20/2021-10/17/2021 - Abilene, Tx
+I worked as a cashier and walked customers through the menu in an understandable and concise manner, helped them customize their ice cream, and would then roll their ice cream from scratch, taking care to present it in an aesthetic fashion. I would resolve customer dissatisfaction. Maintaining cleanliness was also very important. I would regularly open and close. <br>
+Buffalo Wild Wings / Server  325-695-9464
+10/19/2021-4/1/2023 - Abilene, Tx
+I worked as a server in both the dining and bar area and became accustomed to a fast paced work environment, a high diversity of individuals, working late hours, and maintaining a clean environment. I helped train new servers, maintained a civil work environment, and treated guests with utmost care and respect in the midst of hectic work situations. A few responsibilities included greeting guests, being familiar with a POS system and putting in orders quickly and accurately, running food, doing dishes, cleaning tables and floors, opening and closing the restaurant, cleaning bathrooms, restocking, sweeping, and mopping. <br> 
+
+Galveston Seafood Company / Server
+7/18/2022-1/2/2023, returned 5/15-8/21
+Working at a smaller family owned business helped me better connect with customers, and my responsibilities included opening the restaurant, making sauces from scratch, restocking, greeting guests quickly and warmly, creating an ambient environment by being welcoming and informative, being familiar with a large constantly changing menu,, running food quickly, cleaning tables, as well as maintaining restaurant cleanliness. I would also regularly close. </br>
+
+  </section>
+  <section id="education">
+    <h2>Education</h2>
+    Abilene High School </br>
+Graduated 5/29/2021 with a 4.0 GPA </br>
+Emerson College </br>
+Start Date 1/12/2023 </Br>
+Est Grad Date - 2026 </br>
+
+  </section>
+  <section id="awards">
+    <h2>Awards</h2>
+    I do not think I really win stuff. Ouch. 
+  </section>
+  <section id="skills">
+    <h3>Soft Skills</h3>
+    Throughout my highschool experience I fostered skills working in a variety of clubs and alongside different people. Some of these include 
+I have just over two years of full time work experience and in that time have become skilled at socializing with patrons, multitasking, and problem solving. Previous to this I took orchestra and creative writing and am well equipped with a creative, patient, and vibrant world view. Learning and growing within a position is valuable to me, and I always appreciate a chance to approach issues with gumption. </br>
+
+  </section>
+  <footer>
+    <center>
+      Email me: gabrigrace2358@gmail.com </center>
+  </footer>
+</body>
+</html>
+
+
+

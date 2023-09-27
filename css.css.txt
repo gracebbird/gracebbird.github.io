@@ -1,0 +1,30 @@
+#awards 
+{font-family: "papyrus";
+color: red;
+text-align: center;}
+#experience
+{font-family: "papyrus";}
+#education
+{font-family: "papyrus";
+text-align: center;
+color: deeppink;}
+#skills
+{font-family: "papyrus";
+color: darkviolet;}
+header
+{background-color: #8FBC8F;
+  font-family: "courier new", fantasy;
+  font-size: 2em;
+}
+boston {width: 30%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 4px;
+  margin-right: 4px;
+  float: center;
+}
+footer
+{background-color: #8FBC8F;
+  font-family: "courier new", fantasy;
+  font-size: 3em;
+}
